@@ -8,7 +8,7 @@ The purpose of this analysis is to take ridesharing data for a set of cities and
 The dataframe compiling the information for each city type is as follows:
 ![image](https://user-images.githubusercontent.com/92831138/146031783-b70cf77b-efb4-4e2d-8dc8-315f90eada9e.png)
 
-As can be seen, as the type of city changes from rural to suburban to urban the number of rides and drives increases. Naturally, this also results in a larger total amount of fares for urban cities than the other types. Conversely, this means that as cities move from urban to suburban to rural the average fare per ride and driver increase. Most notably, the average fare per driver in rural cities is almost $40 higher than it is in urban cities due to the much smaller number of available drivers. 
+As can be seen, as the type of city changes from rural to suburban to urban the number of rides and drivers increases. Naturally, this also results in a larger total amount of fares for urban cities than the other types. Conversely, this means that as cities move from urban to suburban to rural the average fare per ride and driver increase. Most notably, the average fare per driver in rural cities is almost $40 higher than it is in urban cities due to the much smaller number of available drivers. 
 
 The following line graph is a compilation of the data for a period between 01/01/19 and 04/28/19:
 
