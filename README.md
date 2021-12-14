@@ -20,3 +20,5 @@ The following line graph is a compilation of the data for a period between 01/01
 The graph visually displays the same conclusions that can be reached from the earlier dataframe. Urban cities have higher fare totals than suburban cities, which in turn have a higher total than rural cities. There are small changes to each line over time, but nothing of such a magnitude that it causes any line to intersect with abother for the observed period. At least from this data it can be determined that time of year impacts the amount of fares in a given city but that on the whole the cities that are urban will have a higher total fare amount. 
 
 ## Summary
+
+
