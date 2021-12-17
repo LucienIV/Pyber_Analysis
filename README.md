@@ -15,9 +15,9 @@ As can be seen, as the type of city changes from rural to suburban to urban the 
 ### Line Graph for Four Month Span
 
 The following line graph is a compilation of the data for a period between 01/01/19 and 04/28/19:
+![image](https://user-images.githubusercontent.com/92831138/146596159-6c291a04-bfa1-4f55-bc1f-e6d93b88ee0d.png)
 
-
-The graph visually displays the same conclusions that can be reached from the earlier dataframe. Urban cities have higher fare totals than suburban cities, which in turn have a higher total than rural cities. There are small changes to each line over time, but nothing of such a magnitude that it causes any line to intersect with abother for the observed period. At least from this data it can be determined that time of year impacts the amount of fares in a given city but that on the whole the cities that are urban will have a higher total fare amount. 
+The graph visually displays the same conclusions that can be reached from the earlier dataframe. Urban cities have higher fare totals than suburban cities, which in turn have a higher total than rural cities. There are small changes to each line over time, but nothing of such a magnitude that it causes any line to intersect with another for the observed period. At least from this data it can be determined that time of year impacts the amount of fares in a given city but that on the whole the cities that are urban will have a higher total fare amount. 
 
 ## Summary
 
@@ -25,4 +25,4 @@ Based on the results several recommendations can be made to the CEO for addressi
 
 1. The large disparity in average fare per driver as cities move from being urban to rural is caused at least in part due to the overabundance of drivers in urban cities and the scarcity of drivers in rural cities. To combat this more drivers could be hired in rural cities, however it is debatable if this would be the best course of action. Doing so would cause a decrease in the profits of drivers in those areas and would not necessarily be in their best interest. 
 2. The larger total fares for urban cities compared to suburban and rural cities is due to the larger total number of rides given in those cities. A way to address this would be to increase advertising in more rural and suburban cities to increase the number of users requesting rides from the service.
-3. The average fare is lower as cities become more urban, being almost $10 less than the average fare in rural cities. This could be due to factors not shown in the dataset, such as length of rides. This could be addressed by increasing the fare cost in urban cities, but this could potentially results in a loss of customers to competitors. 
+3. The average fare is lower as cities become more urban, being almost $10 less than the average fare in rural cities. This could be due to factors not shown in the dataset, such as length of rides. This could be addressed by increasing the fare cost in urban cities, but this could potentially result in a loss of customers to competitors. 
